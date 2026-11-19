@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.19",
   "description": "SimpleKaruzi Support Package v2026.11.19，包含 OpenCorePkg 与 69 个 kext 产品（发布时最新）。",
   "release_date": "2026-11-19",
   "download_url": "https://github.com/694707515/SimpleKaruzi-SKSP-OpenCore-kexts/releases/download/v2026.11.19/SimpleKaruzi_SKSP_v2026.11.19.zip",
-  "size": 96954821,
-  "sha256": "3fda4a855f41d439d6dc13dc7f26c1736d3d862823aca8de9eaabc1514b03c12"
+  "version": "2026.11.19",
+  "size": 96954836,
+  "sha256": "20e9c9721e7fe99609533963bc6292b6d0bd9a3f8e40d3f00d1d6fe83730f7a7"
 }
